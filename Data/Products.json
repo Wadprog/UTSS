@@ -1,0 +1,28 @@
+﻿[
+
+    {
+        "Id": 1,
+        "Item": "Fish",
+        "Stock": 1089,
+        "UnitPrice": 21.90
+    },
+    {
+        "Id": 2,
+        "Item": "Tuna",
+        "Stock": 1589,
+        "UnitPrice": 50.90
+    },
+    {
+        "Id": 2,
+        "Item": "Snail",
+        "Stock": 200,
+        "UnitPrice": 4.90
+    },
+    {
+        "Id": 2,
+        "Item": "Beverages",
+        "Stock": 500,
+        "UnitPrice": 21.90
+    }
+
+]
